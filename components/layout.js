@@ -37,6 +37,7 @@ export default function Layout({ children, home }) {
         )}
       </header>
       <main>{children}</main>
+      <span>hey it's works.</span>
     </div>
   );
 }
